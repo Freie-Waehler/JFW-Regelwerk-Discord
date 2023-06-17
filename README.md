@@ -1,2 +1,3 @@
 # JFW-Regelwerk-Discord
-Das Regelwerk des Discordservers der Jungen Freien Wähler
+
+**§1**: Dies ist der inoffizielle Discordserver der JUNGEN FREIEN WÄHLER, der Jugendorganisation der Bundesvereinigung der Freien Wähler.
